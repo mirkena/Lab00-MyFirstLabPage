@@ -1,4 +1,3 @@
-# Lab00-MyFirstLabPage
 <!DOCTYPE html>
 <html lang="en">
 <head>
